@@ -1,1 +1,1 @@
-# Quotes-Project
+# Quotes-JS-Project
